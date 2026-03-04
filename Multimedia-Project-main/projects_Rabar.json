@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Uni_day",
+    "description": "weefqwe",
+    "status": "Planning",
+    "priority": "Medium",
+    "frontend_language": "Angular",
+    "backend_language": "Java",
+    "tasks": [
+      {
+        "id": 1,
+        "text": "have to be done",
+        "completed": true,
+        "created": "2026-03-04 21:53:53"
+      },
+      {
+        "id": 2,
+        "text": "have desing",
+        "completed": false,
+        "created": "2026-03-04 22:11:26"
+      },
+      {
+        "id": 3,
+        "text": "be perfict",
+        "completed": false,
+        "created": "2026-03-04 22:11:36"
+      },
+      {
+        "id": 4,
+        "text": "be succsful",
+        "completed": false,
+        "created": "2026-03-04 22:11:52"
+      }
+    ],
+    "media": [],
+    "notes": "hi",
+    "created": "2026-03-04 21:53:26",
+    "progress": 25,
+    "students": [
+      {
+        "id": 1,
+        "name": "Ahmad",
+        "email": "Ahmad.shmalf21@komar.edu.iq",
+        "phone": "",
+        "added": "2026-03-04 23:08:13"
+      },
+      {
+        "id": 2,
+        "name": "Rawezh",
+        "email": "",
+        "phone": "0770012345",
+        "added": "2026-03-04 23:09:06"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Media",
+    "description": "",
+    "status": "Planning",
+    "priority": "Medium",
+    "frontend_language": "Vue.js",
+    "backend_language": "Go",
+    "tasks": [
+      {
+        "id": 1,
+        "text": "add desing into project",
+        "completed": false,
+        "created": "2026-03-04 21:55:41"
+      },
+      {
+        "id": 2,
+        "text": "Desing",
+        "completed": false,
+        "created": "2026-03-04 22:54:10"
+      }
+    ],
+    "media": [
+      {
+        "id": 1,
+        "type": "image",
+        "name": "doctor.jpg",
+        "path": "project_media_Rose\\project_1\\doctor.jpg",
+        "added": "2026-03-04 21:56:02"
+      }
+    ],
+    "notes": "hello",
+    "created": "2026-03-04 21:55:04",
+    "progress": 0
+  }
+]
